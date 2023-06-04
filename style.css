@@ -191,14 +191,6 @@ footer {
     max-width: 300px;
     height: 400%;
   }
-  .right-side {
-    background-color: aqua;
-  }
-  .experience .italic {
-    font-style: italic;
-    font-size: 24px;
-    margin-bottom: 25px;
-  }
 
   footer {
     position: relative;
